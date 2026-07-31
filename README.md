@@ -42,6 +42,9 @@ O framework reúne conceitos modernos de Segurança da Informação, Automação
 ---
 
 # 🏗️ Arquitetura
+<p align="center">
+  <img src="./arquitetura.png" alt="Arquitetura EADC" width="100%">
+</p>
 
 O framework está organizado em módulos independentes.
 
