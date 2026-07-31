@@ -1,4 +1,6 @@
-# 🛡️ EADC – Ecossistema Autônomo de Defesa Cibernética de Próxima Geração
+# 🛡️ EADC – Ecossistema Autônomo de Defesa Cibernética de Próxima Geração <p align="center">
+  <img src="./banner.png" alt="Banner EADC" width="100%">
+</p>
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Versão](https://img.shields.io/badge/Versão-1.0-blue)
